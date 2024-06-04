@@ -2,6 +2,8 @@
 
 ## Introduction
 
+this is how you practice your git stuff
+
 ## Purpose
 
 To practice ofc lol
