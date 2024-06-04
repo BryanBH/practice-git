@@ -17,3 +17,7 @@ by using git push ofc duhhh
 ## How to contribute
 
 To just keep practicing man so that you get better
+
+### Copyright
+
+copyright 2024
