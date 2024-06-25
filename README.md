@@ -8,7 +8,7 @@ this is how you practice your git stuff
 
 ## Purpose
 
-To practice ofc lol
+To practice ofc lol pendejo
 
 ## Deployment
 
