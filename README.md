@@ -21,4 +21,4 @@ To just keep practicing man so that you get better
 
 ### Copyright
 
-copyright 2024
+copyright 2024. All rights reserved.
